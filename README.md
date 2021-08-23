@@ -1,5 +1,3 @@
-I like music. And video games. And cats.
+I love music and video games. And cats.
 
-So I'm programming audio, games and cats.
-
-I'll update this README when I get more done.
+So I'm programming audio and video games. And cats?
